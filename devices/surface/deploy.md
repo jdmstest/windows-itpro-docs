@@ -21,7 +21,7 @@ Get deployment guidance for your Surface devices including information about MDT
 | [Upgrade Surface devices to Windows 10 with MDT](upgrade-surface-devices-to-windows-10-with-mdt.md)| Find out how to perform a Windows 10 upgrade deployment to your Surface devices. |
 | [Customize the OOBE for Surface deployments](customize-the-oobe-for-surface-deployments.md)| Walk through the process of customizing the Surface out-of-box experience for end users in your organization.|
 | [Ethernet adapters and Surface deployment](ethernet-adapters-and-surface-device-deployment.md)| Get guidance and answers to help you perform a network deployment to Surface devices.|
-| [Surface Deployment Accelerator](microsoft-surface-deployment-accelerator.md)| See how Microsoft Surface Deployment Accelerator provides a quick and simple deployment mechanism for organizations to reimage Surface devices. |
+| [Surface Deployment Accelerator](microsoft-surface-deployment-accelerator.md)| See how Microsoft Surface Deployment Accelerator provides a quick and simple deployment mechanism for organizations to reimage Surface devices. 
 
 
 
